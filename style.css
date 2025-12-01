@@ -90,6 +90,18 @@ button {
   transition: 0.25s;
 }
 
+.contact-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #3498db;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 18px;
+  margin-top: 15px;
+}
+
+
 button:hover {
   background-color: var(--pink-color);
 }
